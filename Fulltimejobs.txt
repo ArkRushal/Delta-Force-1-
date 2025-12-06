@@ -1,10 +1,1 @@
-Doctor|aljdhnfjaldsfljkj|akdsfjla|500
-Wind|;aejrlkmlk|qewrioqwelrnlkn|10000
-doctor|sdfasdf|asdfasdf|1000|
-doctor|sdfasdf|asdfasdf|1000|adsfasdf
-wefadsf|adsfadsf|asdfasdfa|10000|
-wefadsf|adsfadsf|asdfasdfa|10000|adfsaf
-harshilbajra|ouadwhfjladlkfn|Kumaripati, Lalitpur|10000|harshilbajra
-asdfasdfasdf|adsfasdfasdfa|asdfasdf|100000|asdfasdfasdf
-Doctor|adsfasdfasdfasdfasdfasdf|Kumaripati, Lalitpur|10000|adfasdf
-adfasdfasdf|adsfasdfasdf|adsfasdfasd|7000|asdfasdfadsf
+
