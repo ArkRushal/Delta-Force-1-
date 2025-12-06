@@ -29,6 +29,6 @@ else:
     offer_job = st.button("Offer a Job")
     look_for_job = st.button("Look for a Job")
     if offer_job:
-        st.switch_page("Jobset")
+        st.switch_page("pages/Jobset.py")
     elif look_for_job:
-        st.switch_page("side")
+        st.switch_page("pages/side.py")
